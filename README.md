@@ -1,1 +1,1 @@
-# celsius-to-fahrenheit
+# Celsius-to-Fahrenheit
