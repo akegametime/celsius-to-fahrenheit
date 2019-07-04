@@ -5,7 +5,6 @@ int main ()
 {
 	float Celsius; 
 	float Fahrenheit = 32.00;
-	float temparature;
 	cout<<"Enter Celsius temperature : ";
 	cin>>Celsius;
 	cout<<"Fahrenheit = "<<Celsius*1.80+Fahrenheit<<endl;
